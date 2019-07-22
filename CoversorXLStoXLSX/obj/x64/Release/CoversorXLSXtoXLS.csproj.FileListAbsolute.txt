@@ -1,0 +1,12 @@
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Release\CoversorXLSXtoXLS.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Release\CoversorXLSXtoXLS.exe.config
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Release\CoversorXLSXtoXLS.exe
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Release\CoversorXLSXtoXLS.pdb
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Release\CoversorXLSXtoXLS.exe
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Release\CoversorXLSXtoXLS.pdb
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Release\CoversorXLSXtoXLS.exe.manifest
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Release\CoversorXLSXtoXLS.application
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Release\CoversorXLSXtoXLS.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Release\CoversorXLSXtoXLS.TrustInfo.xml
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Release\CoversorXLSXtoXLS.exe.manifest
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Release\CoversorXLSXtoXLS.application

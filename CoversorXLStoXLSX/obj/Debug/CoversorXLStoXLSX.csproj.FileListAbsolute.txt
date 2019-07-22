@@ -1,0 +1,9 @@
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\Debug\CoversorXLStoXLSX.exe.config
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\Debug\CoversorXLStoXLSX.exe
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\Debug\CoversorXLStoXLSX.pdb
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\Debug\CoversorXLStoXLSX.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\Debug\CoversorXLStoXLSX.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\Debug\CoversorXLStoXLSX.exe
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\Debug\CoversorXLStoXLSX.pdb
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\Debug\EasyXLS.dll
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\Debug\CoversorXLStoXLSX.csproj.CopyComplete

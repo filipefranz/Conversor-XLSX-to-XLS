@@ -1,0 +1,12 @@
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Debug\CoversorXLSXtoXLS.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Debug\CoversorXLSXtoXLS.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Debug\CoversorXLSXtoXLS.exe.config
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Debug\CoversorXLSXtoXLS.exe.manifest
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Debug\CoversorXLSXtoXLS.application
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Debug\CoversorXLSXtoXLS.exe
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\bin\x64\Debug\CoversorXLSXtoXLS.pdb
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Debug\CoversorXLSXtoXLS.TrustInfo.xml
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Debug\CoversorXLSXtoXLS.exe.manifest
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Debug\CoversorXLSXtoXLS.application
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Debug\CoversorXLSXtoXLS.exe
+C:\Users\filip\source\repos\CoversorXLStoXLSX\CoversorXLStoXLSX\obj\x64\Debug\CoversorXLSXtoXLS.pdb
